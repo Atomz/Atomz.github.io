@@ -3,9 +3,9 @@ title: about
 layout: page
 ---
 
-a
+Atomz
 
-> Minimalist | Appleist | Unixer | Coder
+> Technical Artist
 
 who involved in 
 
@@ -13,10 +13,4 @@ who involved in
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
-
-or follow 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
-
-to reach me
+> echo ebwnjoppzevixprubv | tr ebzoepnixjuvwr go@eglsaihcmt.
