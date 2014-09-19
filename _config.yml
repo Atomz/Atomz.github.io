@@ -1,12 +1,12 @@
 markdown: rdiscount
 highlighter: true
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "Atomz"
 markdown: rdiscount
 
-author: "wayne"
-atom-baseurl: "http://lhzhang.com"
-disqus: "gopherwood"
+author: "Atomz"
+atom-baseurl: "http://atomz.me"
+disqus: "4t0m2"
 
 navigations:
   - title: Archive
