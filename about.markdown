@@ -5,7 +5,7 @@ layout: page
 
 Atomz
 
-> Technical Artist
+> Startup | iOS Dev | Technical Artist
 
 mail 
 
