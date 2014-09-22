@@ -3,9 +3,8 @@ title: 'Nginx上部署CI'
 layout: post
 tags: [nginx, php, CI]
 ---
-#主要是rewrite方面的配置：
+###主要是rewrite方面的配置：
 添加以下内容在vhost中即可
-   
     location ~ \.php($|/) {
         fastcgi_pass   127.0.0.1:9000;
         fastcgi_index  index.php;
@@ -21,6 +20,5 @@ tags: [nginx, php, CI]
     }
 
 然后重启Nginx
-
-   sudo /etc/init.d/nginx restart
+    sudo /etc/init.d/nginx restart
    
