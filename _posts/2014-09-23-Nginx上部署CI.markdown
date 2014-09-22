@@ -1,8 +1,7 @@
 ---
 title: 'Nginx上部署CI'
 layout: post
-tags:
-    - nginx, php, CI
+tags: [nginx, php, CI]
 ---
 #主要是rewrite方面的配置：
 添加以下内容在vhost中即可
@@ -21,6 +20,6 @@ tags:
         break;
     }
 
-然后重启nginx
+然后重启Nginx
    sudo /etc/init.d/nginx restart
    
