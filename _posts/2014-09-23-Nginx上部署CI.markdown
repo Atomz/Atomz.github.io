@@ -21,5 +21,6 @@ tags: [nginx, php, CI]
     }
 
 然后重启Nginx
-	sudo /etc/init.d/nginx restart
+
+   sudo /etc/init.d/nginx restart
    
