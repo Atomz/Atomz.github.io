@@ -1,0 +1,27 @@
+y--
+title: 'Apache2.4 开启Rewrite'
+layout: post
+tags: [apache, wordpress]
+category: "Web"
+---
+
+这个版本的Apache配置文件都被拆成了多份配置，跟以前的配置方法稍有不同。
+
+首先开启rewrite
+
+    sudo ln -s /etc/apache2/mods-available/rewrite.load /etc/apache2/mods-enabled/rewrite.load
+
+然后
+
+    sudo vim /etc/apache2/sites-available/000-default.conf
+	
+VirtualHost之间添加
+
+	<Directory "/var/www">
+		AllowOverride All
+	</Directory>
+
+然后重启Apache
+
+    sudo service apache2 restart
+   
