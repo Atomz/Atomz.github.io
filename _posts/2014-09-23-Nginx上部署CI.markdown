@@ -1,4 +1,4 @@
---
+---
 title: 'Nginx上部署CI'
 layout: post
 tags: [nginx, php, CI]
