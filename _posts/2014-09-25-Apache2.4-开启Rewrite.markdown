@@ -1,4 +1,4 @@
-y--
+---
 title: 'Apache2.4 开启Rewrite'
 layout: post
 tags: [apache, wordpress]
