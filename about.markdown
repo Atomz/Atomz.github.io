@@ -11,6 +11,4 @@ mail
 
 > echo ebwnjoppzevixprubv | tr ebzoepnixjuvwr go@eglsaihcmt.
 
-linkedin
-
-> [Linkedin](http://cn.linkedin.com/in/rhodneezheng)
+[Linkedin](http://cn.linkedin.com/in/rhodneezheng)
