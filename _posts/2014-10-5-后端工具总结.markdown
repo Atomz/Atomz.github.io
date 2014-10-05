@@ -6,15 +6,15 @@ category: "Web"
 ---
 ###总结记录一下几个常用的后端开发工具
 *****
-* PHP IDE: PHP Strom (JetBrain出品 赞)
-* 模拟数据传送: Advance REST Client (chrome 插件)
-* Thinkphp: 好用的的轻量级php框架，比CI要复杂一些，文档详细，社区活跃，国人开发
-* [WinSCP]({{ site.attachment }}/WinSCPPortable.rar): 本地, SFTP 文件同步利器
-* Xshell: 好用的SSH终端
-* [json数据在线验证](http://pro.jsonlint.com)
-* [yaml数据在线验证](http://yamllint.com)(需爬梯)
+	* PHP IDE: PHP Strom (JetBrain出品 赞)
+	* 模拟数据传送: Advance REST Client (chrome 插件)
+	* Thinkphp: 好用的的轻量级php框架，比CI要复杂一些，文档详细，社区活跃，国人开发
+	* [WinSCP]({{ site.attachment }}/WinSCPPortable.rar): 本地, SFTP 文件同步利器
+	* Xshell: 好用的SSH终端
+	* [json数据在线验证](http://pro.jsonlint.com)
+	* [yaml数据在线验证](http://yamllint.com)(需爬梯)
 
 
 ###以及爬梯子用的
 *****
-* [shadowsocks]({{ site.attachment }}/ssh_tool.zip)
+	* [shadowsocks]({{ site.attachment }}/ssh_tool.zip)
