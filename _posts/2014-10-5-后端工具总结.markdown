@@ -8,7 +8,7 @@ category: "Web"
 *   PHP IDE: PHP Strom (JetBrain出品 赞)
 *   模拟数据传送: Advance REST Client (chrome 插件)
 *   Thinkphp: 好用的的轻量级php框架，比CI要复杂一些，文档详细，社区活跃，国人开发
-*   [WinSCP]("{{ site.attachment }}/WinSCPPortable.rar"): 本地, SFTP 文件同步利器
+*   [WinSCP]({{ site.attachment }}/WinSCPPortable.rar): 本地, SFTP 文件同步利器
 *   Xshell: 好用的SSH终端
 
 ##以及爬梯子用的:
