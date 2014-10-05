@@ -5,7 +5,6 @@ tags: [nginx, php, server, thinkphp]
 category: "Web"
 ---
 ###最近在用的
-*****
 * PHP IDE: PHP Strom (JetBrain出品 赞)
 * 模拟数据传送: Advance REST Client (chrome 插件)
 * Thinkphp: 好用的的轻量级php框架，比CI要复杂一些，文档详细，社区活跃，国人开发
@@ -16,5 +15,4 @@ category: "Web"
 
 
 ###以及爬梯子用的
-*****
 * [shadowsocks]({{ site.attachment }}/ssh_tool.zip)
