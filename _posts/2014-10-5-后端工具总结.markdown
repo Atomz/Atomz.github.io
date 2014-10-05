@@ -4,7 +4,7 @@ layout: post
 tags: [nginx, php, server, thinkphp]
 category: "Web"
 ---
-###总结记录一下几个常用的后端开发工具
+###最近在用的
 *****
 * PHP IDE: PHP Strom (JetBrain出品 赞)
 * 模拟数据传送: Advance REST Client (chrome 插件)
