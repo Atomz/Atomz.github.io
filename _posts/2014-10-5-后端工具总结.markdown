@@ -12,4 +12,4 @@ category: "Web"
 * Xshell: 好用的SSH终端
 
 ##以及爬梯子用的:
-* [shadowsocks]({{attachment.href}}/ssh_tool.zip)
+* [shadowsocks]({{attachment}}/ssh_tool.zip)
