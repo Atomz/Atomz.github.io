@@ -6,7 +6,6 @@ markdown: rdiscount
 
 author: "Atomz"
 atom-baseurl: "http://atomz.me"
-disqus: "atomz"
 
 navigations:
   - title: Archive
