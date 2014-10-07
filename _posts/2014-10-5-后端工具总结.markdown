@@ -3,6 +3,7 @@ title: '后端工具总结'
 layout: post
 tags: [nginx, php, server, thinkphp]
 category: "Web"
+comments: true
 ---
 ###最近在用的
 * PHP IDE: PHP Strom (JetBrain出品 赞)
