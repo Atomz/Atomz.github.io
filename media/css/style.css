@@ -175,6 +175,10 @@ article {
   article .divider:after {
     margin-left: 1%; }
 
+  article .post {
+	color: #000000;
+  }
+	
 footer {
   width: 680px;
   margin: 0 auto;
