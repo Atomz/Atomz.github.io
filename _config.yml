@@ -6,7 +6,6 @@ markdown: rdiscount
 
 author: "Atomz"
 atom-baseurl: "http://atomz.me"
-disqus: "4t0m2"
 
 navigations:
   - title: Archive
@@ -28,3 +27,4 @@ navigations:
     class: fa fa-rss
     href: /atom.xml
 
+attachment: "/attachment"
