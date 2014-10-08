@@ -175,7 +175,7 @@ article {
   article .divider:after {
     margin-left: 1%; }
 
-  article .post {
+.post {
 	color: #ff0000;
 	font-size: 12px;
   }
