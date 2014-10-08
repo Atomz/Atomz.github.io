@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*------------------------------------
  * sext-vi
  *
@@ -16,9 +16,9 @@
   padding: 0; }
 
 body {
-  font-size: 14px;
-  font-family: "telexregular", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-  color: #555;
+  font-size: 15px;
+  font-family: "Microsoft YaHei", "telexregular", "Hiragino Sans GB", sans-serif;
+  color: #000000;
   background-color: #f9f9f9; }
 
 ol, ul {
@@ -63,7 +63,7 @@ code {
   font-family: "Ubuntu", monospace; }
 
 h1, h2 {
-  font-size: 1.4em; }
+  font-size: 1.5em; }
 
 time {
   font-family: "Ubuntu", monospace; }
@@ -106,7 +106,7 @@ header {
 ul.listing {
   margin-top: 1em; }
   ul.listing li {
-    list-style-type: none;
+    list-style-type: disc;
     padding: 0; }
     ul.listing li.listing-item a, ul.listing li.listing-item header #header h1 a, header #header h1 ul.listing li.listing-item a {
       padding: .2em 0 .2em 2em; }
@@ -127,7 +127,7 @@ article {
   article .title {
     font-family: "telexregular", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
     article .title header #header h1 a, header #header h1 article .title a, article .title a, article .title .meta .tags a, article .meta .tags .title a {
-      color: #777; }
+      color: #000000; }
   article .meta {
     display: block;
     overflow: auto;
