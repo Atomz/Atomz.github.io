@@ -175,7 +175,7 @@ article {
   article .divider:after {
     margin-left: 1%; }
 
-.post {
+   article .post {
 	color: #ff0000;
 	font-size: 12px;
   }
@@ -184,7 +184,7 @@ footer {
   width: 680px;
   margin: 0 auto;
   display: block;
-  color: #ff0000;
+  color: #909090;
   font-family: "telexregular", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   font-size: .9em;
   text-align: center;
