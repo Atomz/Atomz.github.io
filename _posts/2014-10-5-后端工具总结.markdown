@@ -13,6 +13,7 @@ comments: true
 * Xshell: 好用的SSH终端
 * [json数据在线验证](http://pro.jsonlint.com)
 * [yaml数据在线验证](http://yamllint.com)(需爬梯)
+* [xml反序列化](http://i-tools.org/unserialize)
 
 
 ###以及爬梯子用的
